@@ -6,9 +6,9 @@ layout {
         children
     }
 
-    tab name="galleon" cwd="tensorfox/galleon" focus=true
+    tab name="alacritty" cwd="utkarsh/rust/alacritty" focus=true
 
-    tab name="controller" cwd="tensorfox/controller"
+    tab name="vte" cwd="utkarsh/rust/vte"
 
-    tab name="cargo" cwd="tensorfox/galleon"
+    tab name="cargo" cwd="utkarsh/rust/alacritty"
 }
