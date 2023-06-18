@@ -6,9 +6,9 @@ layout {
         children
     }
 
-    tab name="galleon" cwd="tensorfox/galleon" focus=true
+    tab name="galleon" cwd="~/tensorfox/galleon" focus=true
 
-    tab name="controller" cwd="tensorfox/controller"
+    tab name="controller" cwd="~/tensorfox/controller"
 
-    tab name="cargo" cwd="tensorfox/galleon"
+    tab name="cargo" cwd="~/tensorfox/galleon"
 }
