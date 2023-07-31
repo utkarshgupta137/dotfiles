@@ -8,9 +8,9 @@ layout {
 
     tab name="cargo" cwd="~/tensorfox/galleon"
 
-    tab name="galleon" cwd="~/tensorfox/galleon" focus=true
+    tab name="tfx" cwd="~/tensorfox/galleon" focus=true
 
-    tab name="controller" cwd="~/tensorfox/controller"
+    tab name="ctl" cwd="~/tensorfox/controller"
 
-    tab name="crosschain" cwd="~/tensorfox/crosschain"
+    tab name="xc" cwd="~/tensorfox/crosschain"
 }
