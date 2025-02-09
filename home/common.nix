@@ -14,7 +14,6 @@
     ./programs/bottom.nix
     ./programs/broot.nix
     ./programs/fd.nix
-    ./programs/fzf.nix
     ./programs/gh.nix
     ./programs/gitui.nix
     ./programs/go.nix
